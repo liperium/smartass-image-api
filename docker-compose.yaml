@@ -1,0 +1,12 @@
+version: "3.3"
+services:
+  hdp-web-server:
+    ports:
+      - 8080:8080
+    volumes:
+      - ./images:/app/images
+      - ./.env:/app/.env
+    image: liperium/hdp-web-server
+    container_name: hdp-web-server
+networks: {}
+

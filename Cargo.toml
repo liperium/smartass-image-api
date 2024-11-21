@@ -1,0 +1,19 @@
+[package]
+name = "hdp-web-server"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rocket = "0.5.0"
+serde = "1.0.196"
+serde_derive = "1.0.196"
+serde_json = "1.0.113"
+jsonwebtoken = "9.2.0"
+dotenv = "0.15.0"
+diesel = { version = "2.1.4", features = ["postgres"] }
+dotenvy = "0.15"
+rocket-multipart-form-data = "0.10.7"
+reqwest = { version = "0.11.24", features = ["blocking", "json"]}
+diesel-derive-enum = {version="2.1.0", features = ["postgres"]}

@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 819266a6f11f9877751d06041b722bc480e91862 Mattys Gervais <48138387+liperium@users.noreply.github.com> 1711727920 -0400	clone: from https://github.com/liperium/hdp-web-server.git
+819266a6f11f9877751d06041b722bc480e91862 4433f0f912cfba14d7b025968befd2275306e0ee Mattys Gervais <48138387+liperium@users.noreply.github.com> 1711761044 -0400	commit: removed direnv from git and base commit for removing secrets
+4433f0f912cfba14d7b025968befd2275306e0ee e4dadea207a39f268a08c809d356d42feafc4800 Mattys Gervais <48138387+liperium@users.noreply.github.com> 1711761245 -0400	pull: Fast-forward
+e4dadea207a39f268a08c809d356d42feafc4800 b84014d0251f84e706735897c87a00b1a9e854dd Mattys Gervais <48138387+liperium@users.noreply.github.com> 1711761489 -0400	pull: Fast-forward
+b84014d0251f84e706735897c87a00b1a9e854dd fb12c7c5cc2c72d63337c33d98884c24e70ef49a Mattys Gervais <mattysgervais@gmail.com> 1732218411 -0500	pull: Fast-forward
+fb12c7c5cc2c72d63337c33d98884c24e70ef49a 2390a8dc8f473e4521cad5f601baedbd386c2fad Mattys Gervais <mattysgervais@gmail.com> 1732218528 -0500	commit: readme
